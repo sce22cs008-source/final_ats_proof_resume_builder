@@ -46,6 +46,8 @@ cd server && npm install && cd ..
 
 ### 2. Configure Environment
 
+
+
 ```bash
 # Copy the env template
 cp server/.env.example server/.env
