@@ -12,6 +12,11 @@ A full-stack AI resume builder that generates ATS-friendly resumes, grades uploa
 | PDF | html2pdf.js (client-side) |
 | File Parsing | pdf-parse + mammoth |
 
+
+
+
+
+
 ## Architecture
 
 ```
