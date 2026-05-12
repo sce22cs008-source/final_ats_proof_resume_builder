@@ -38,6 +38,9 @@ export default function AuthModal({ isOpen, onClose }) {
     }
   };
 
+  
+
+
   return (
     <div className="auth-backdrop" onClick={onClose} role="dialog" aria-modal="true">
       <div className="auth-panel" onClick={e => e.stopPropagation()}>
