@@ -247,6 +247,10 @@ The app uses **Google Gemini** by default but is designed for easy provider swap
 └── package.json                # Root (concurrently)
 ```
 
+
+
+
+
 ## License
 
 MIT
