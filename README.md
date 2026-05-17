@@ -254,7 +254,3 @@ The app uses **Google Gemini** by default but is designed for easy provider swap
 ## License
 
 MIT
-
-
-hii
-hii 
